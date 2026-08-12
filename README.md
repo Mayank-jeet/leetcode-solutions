@@ -9,7 +9,7 @@ This repository is maintained as a personal learning resource to improve my unde
 The solutions are organized into folders based on their primary data structure or problem-solving pattern.
 
 ```text
-leetcode-solution/
+leetcode-solutions/
 │
 ├── Binary Search/
 ├── Graph/
