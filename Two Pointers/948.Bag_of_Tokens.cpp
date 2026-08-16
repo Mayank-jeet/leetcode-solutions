@@ -5,7 +5,6 @@
  * Time: O(nlog(n)) for sorting input vector, else O(n) for while loop
  * Space: O(1)
  */
-// This solutution can be simplified more, using map, but that will take more space O(n) in worst case
 #include <bits/stdc++.h>
 using namespace std;
 class Solution {
