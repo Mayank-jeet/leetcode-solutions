@@ -5,7 +5,6 @@
  * Time: O(n)
  * Space: O(p) where p is distinct mod values
  */
-// This solutution can be simplified more, using map, but that will take more space O(n) in worst case
 #include <bits/stdc++.h>
 using namespace std;
 class Solution {
