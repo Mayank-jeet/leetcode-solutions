@@ -5,7 +5,6 @@
  * Time: O(nlog(n)) for sorting + O(n^2) for loop
  * Space: O(1)
  */
-// This solutution can be simplified more, using map, but that will take more space O(n) in worst case
 #include <bits/stdc++.h>
 using namespace std;
 class Solution {
