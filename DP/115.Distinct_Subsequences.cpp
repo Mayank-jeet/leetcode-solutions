@@ -2,7 +2,7 @@
  * LeetCode: 115 - Distinct Subsequences
  * Link: https://leetcode.com/problems/distinct-subsequences/
  * Difficulty: Hard
- * Time: O(n*m) where n is the length of s and m is the length of t
+ * Time: O(n*m) where n is the length of t and m is the length of s
  * Space: O(n*m)
  */
 #include <bits/stdc++.h>
