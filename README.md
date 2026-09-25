@@ -11,6 +11,7 @@ The solutions are organized into folders based on their primary data structure o
 ```text
 leetcode-solutions/
 │
+├── Backtracking/
 ├── Binary Search/
 ├── DP/
 ├── Graph/
@@ -32,6 +33,7 @@ leetcode-solutions/
 
 Currently, this repository contains solutions for the following topics:
 
+- Backtracking
 - Binary Search
 - Dynamic Programming
 - Graph
@@ -95,6 +97,7 @@ Example:
 
 The solutions in this repository use common techniques such as:
 
+- Backtracking
 - Binary Search
 - Breadth-First Search
 - Depth-First Search
