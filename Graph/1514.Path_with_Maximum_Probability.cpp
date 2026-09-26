@@ -1,6 +1,6 @@
 /*
  * LeetCode: 1514 - Path with Maximum Probability
- * Link: https://leetcode.com/problems/find-champion-ii/
+ * Link: https://leetcode.com/problems/path-with-maximum-probability/
  * Difficulty: Medium
  * Time: O((V+E)log(V)) where V is number of vertices and E is number of edges
  * Space: O(V+E)
