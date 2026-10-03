@@ -1,4 +1,4 @@
- /*
+/*
  * LeetCode: 3524 - Find X Value of Array I
  * Link: https://leetcode.com/problems/find-x-value-of-array-i/
  * Difficulty: Medium
