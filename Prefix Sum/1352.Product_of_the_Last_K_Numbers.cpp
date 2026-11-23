@@ -2,7 +2,7 @@
  * LeetCode: 1352 - Product of the Last K Numbers
  * Link: https://leetcode.com/problems/product-of-the-last-k-numbers/
  * Difficulty: Medium
- * Time: O(n)
+ * Time: O(1) for both add and getProduct
  * Space: O(n)
  */
 #include <bits/stdc++.h>
